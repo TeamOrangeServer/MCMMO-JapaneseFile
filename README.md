@@ -1,6 +1,8 @@
 # MCMMO-JapaneseFile
 日本語ファイル(予定)
 
+## [License](https://github.com/TeamOrangeServer/MCMMO-JapaneseFile/blob/master/License)を必ずお読みください！！
+
 ## 使い方
 
 ```
